@@ -7,6 +7,6 @@ class Config {
     public const DB_NAME = 'capstone4_mvc';
     public const DB_USER = 'root';
     public const DB_PASS = '';
-    public const BASE_URL = '/'; // عدّل إن كان داخل مجلد فرعي
+    public const BASE_URL = '/';
     public const TIMEZONE = 'Asia/Aden';
 }
