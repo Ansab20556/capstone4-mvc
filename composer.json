@@ -1,0 +1,15 @@
+{
+    "name": "albahr/capstone4-mvc",
+    "autoload": {
+        "psr-4": {
+            "Albahr\\Capstone4Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ansab Naif",
+            "email": "ansab20556@gmail.com"
+        }
+    ],
+    "require": {}
+}
